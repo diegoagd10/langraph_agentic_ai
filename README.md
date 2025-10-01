@@ -41,10 +41,21 @@ LangChain is a framework for developing applications powered by language models,
    - `langgraph`: Library for creating graph-based AI workflows.
    - `langchain-core`: Essential abstractions and utilities for LangChain.
    - `langchain-community`: Community-contributed integrations and components.
+   - `python-dotenv`: For loading environment variables.
+   - `langchain-openai`: Integration with OpenAI models.
+   - `langchain-groq`: Integration with Groq models.
+   - `groq`: Groq API client.
 
 ## Usage
 
-Once installed, you can start building your agentic AI applications. Example code and usage will be added in future updates.
+Once installed, you can start building your agentic AI applications. See the `1-Basics/` directory for introductory examples.
+
+## Examples
+
+The `1-Basics/` folder contains Jupyter notebooks with basic examples:
+
+- `1-simple-graph.ipynb`: Demonstrates building a simple workflow using LangGraph with nodes, edges, and state management.
+- `2-chatbot.ipynb`: Shows how to implement a simple chatbot using LangGraph integrated with LLMs from OpenAI and Groq.
 
 ## Contributing
 
