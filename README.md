@@ -59,7 +59,8 @@ The `1-Basics/` folder contains Jupyter notebooks with basic examples:
 - `3-reactive-agent.ipynb`: Demonstrates implementing a ReAct (Reasoning + Acting) agent with router functionality using LangGraph, featuring tools for contact management, email sending, and calendar events.
 - `4-plan-and-execute.ipynb`: Shows how to implement a Plan-and-Execute agent that breaks down complex tasks into systematic steps using a planner, executor, and replanner architecture.
 - `5-memory.ipynb`: Demonstrates how to implement conversation memory and persistence in LangGraph using checkpointers, enabling stateful conversations across multiple interactions.
-- `6-human-in-the-loop.ipynb`: Shows how to implement human-in-the-loop functionality in LangGraph, allowing agents to pause execution and request human assistance when needed using the interrupt mechanism.
+- `6-human-in-the-loop.ipynb`: Shows how to implement human-in-the-loop functionality in LangGraph workflows, allowing human oversight and intervention in automated processes.
+- `7-state-runtime-validation.ipynb`: Demonstrates state management and runtime validation in LangGraph, showing how to build simple workflows with proper state handling and error management.
 
 ## Contributing
 
