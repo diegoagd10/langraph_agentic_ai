@@ -2,7 +2,11 @@ langchain
 langgraph
 langchain-core
 langchain-community
+ibm_granite_community
 python-dotenv
 langchain-openai
 langchain-groq
+replicate
 groq
+docling
+transformers
