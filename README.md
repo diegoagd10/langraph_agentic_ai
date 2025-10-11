@@ -20,13 +20,13 @@ LangChain is a framework for developing applications powered by language models,
 2. Create a conda environment:
 
    ```bash
-   conda create -n venv python=3.12
+   conda create -n langgraph-dev python=3.12
    ```
 
 3. Activate the conda environment:
 
    ```bash
-   conda activate venv
+   conda activate langgraph-dev
    ```
 
 4. Install the required dependencies:
